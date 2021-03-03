@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mapbox</string>
+    <string name="access_token">pk.eyJ1IjoibW9uaWNhYWF0YWRlbyIsImEiOiJja2xzZHZiNXUwN2czMnVxbDMyYTJmdmlmIn0.pcb8B8lAD4fvkc8j05FIig</string>
+
+    <!-- Place Picker plugin -->
+<!--    <string name="selected_place_info">Selected location information:\n%1$s</string>-->
+<!--    <string name="go_to_picker_activity">Go to place picker activity</string>-->
+
+</resources>
